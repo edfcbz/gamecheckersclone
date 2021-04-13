@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tabuleiro</string>
+    <string name="undo">Desfazer</string>
+    <string name="newGame">Novo jogo</string>
+</resources>

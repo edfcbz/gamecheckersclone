@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tabuleiro</string>
+    <string name="undo">Undo</string>
+    <string name="newGame">New game</string>
+</resources>

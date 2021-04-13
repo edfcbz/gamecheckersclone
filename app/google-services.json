@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "957829327452",
+    "firebase_url": "https://tabuleiro-604bb.firebaseio.com",
+    "project_id": "tabuleiro-604bb",
+    "storage_bucket": "tabuleiro-604bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957829327452:android:3f0e473a7348dacb",
+        "android_client_info": {
+          "package_name": "br.com.portfolio.tabuleiro.tabuleiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957829327452-p8eq2sdson8beh4ls61gmmudgqsfuufq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.portfolio.tabuleiro.tabuleiro",
+            "certificate_hash": "3340ddc2a8c62b4e4ce6cf90441f42c934acaab4"
+          }
+        },
+        {
+          "client_id": "957829327452-vrqfdviudon81sflihjc10l8aal34nft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDXlNl73bXmBTEqfIl1AMdWkolEl4TFAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957829327452-vrqfdviudon81sflihjc10l8aal34nft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
